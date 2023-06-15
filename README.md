@@ -11,6 +11,8 @@
 **Cautions:** 可能不太会跟别人交往，请大家多多包涵并指出我的不足，我很乐意接受。<br>
 **Someone to be thank:** 感谢纸鹞([Calvariaa](https://github.com/Calvariaa/))一直以来的陪伴和教导
 
+---
+
 ### Languages:
 - Python(Most mastered)
 - C++
