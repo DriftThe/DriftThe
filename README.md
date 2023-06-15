@@ -21,7 +21,7 @@
 ### Connect:
 - QQ/Wechat/Discord
 
-### Environment$Tools:
+### Environment&Tools:
 - Windows
 - VScode
 - Pycharm
