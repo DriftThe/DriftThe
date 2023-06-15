@@ -1,7 +1,7 @@
 # Hello there
 ## Welcome to my bio~
 
-------
+---
 
 我是 DriftThe （可以简称DT）
 
@@ -25,6 +25,6 @@
 - Pycharm
 - ~~Notepad~~
 
-### interested Areas:
+### Interested Areas:
 - Artificial Intelligence
 - Games&Applications Developing
