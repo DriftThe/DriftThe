@@ -25,6 +25,7 @@
 - Windows
 - VScode
 - Pycharm
+- CLion
 - ~~Notepad~~
 
 ### Interested Areas:
